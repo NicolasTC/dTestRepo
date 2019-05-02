@@ -1,3 +1,4 @@
 ﻿这是test git的B2文件。
 文件结束。
 I am changed on 2nd time.
+changed for 3rd time.
